@@ -1,5 +1,4 @@
-# about
 - ruru8
-- Webエンジニア
-- 23歳
-- Rails / Vue / Nuxt / Angular / AWS 
+- Web エンジニア
+- 23 歳
+- Rails / Vue / Nuxt / Angular / AWS
