@@ -1,3 +1,3 @@
-## [about](/about)
+## [about](/github-theme-sandbox/about)
 
-## [blog](/blog)
+## [blog](/github-theme-sandbox/blog)
