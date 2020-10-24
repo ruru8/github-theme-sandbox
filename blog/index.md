@@ -1,3 +1,3 @@
 # blog
 
-- [2020](/blog/2020)
+- [2020](github-theme-sandbox/blog/2020)
